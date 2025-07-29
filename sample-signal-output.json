@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-07-28T04:32:00Z",
+  "emotion": "grief",
+  "tone": "flat",
+  "intensity": "medium",
+  "certainty": 0.81,
+  "voice_features": {
+    "tempo": "slow",
+    "pitch_variability": "low",
+    "breath_strain": "moderate"
+  },
+  "signal_rating": "yellow",
+  "note": "Detected emotional fatigue with signs of suppressed anger."
+}
